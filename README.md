@@ -14,3 +14,5 @@ Technologies used to develop:
 • HTML
 
 • Vite
+
+• JavaScript
